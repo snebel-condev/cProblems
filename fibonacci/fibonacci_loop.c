@@ -1,14 +1,4 @@
 #include <stdio.h>
-/*
-int main() 
-{
-        int x;
-        x=1;
-        printf( "Declare &x first" );
-
-        return 0;
-}
-*/
 
 int fib(int n)
 {
